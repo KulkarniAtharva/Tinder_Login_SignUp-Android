@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 public class login extends AppCompatActivity
 {
-
     TextView log_in_withphone;
 
     @Override
